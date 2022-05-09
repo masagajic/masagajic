@@ -1,0 +1,16 @@
+body{
+    background-color:beige;
+    font-family: sans-serif;
+}
+
+h1{
+    color: rgb(78, 24, 129);
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+    text-transform: uppercase;
+}
+
+

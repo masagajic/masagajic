@@ -1,0 +1,16 @@
+body{
+    background-color:olivedrab;
+    font-family: sans-serif;
+}
+
+h1{
+    color:olive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color:green;
+    text-transform: uppercase;
+    font-size: small;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color:orange;
+    font-family: sans-serif;
+}
+
+h1{
+    color:orchid;
+    text-align: center;
+}
+
+h2{
+    color:greenyellow;
+    text-transform: uppercase;
+    width: 2px;
+}

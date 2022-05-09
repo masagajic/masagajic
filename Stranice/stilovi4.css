@@ -1,0 +1,14 @@
+body{
+    background-color:gray;
+    font-family: sans-serif;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+
+h2{
+    color:black;
+    text-transform: uppercase;
+}
